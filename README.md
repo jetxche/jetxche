@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Julian Etchepare</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">A passionate frontend developer from Argentina / Soy un desarrollador frontend de Argentina</h3>
 
-- 🌱 I’m currently learning **ReactJS, Firebase, NextJS, Laravel**
+- 🌱 I’m currently learning / Actualmente aprendiendo **ReactJS, Firebase, NextJS, Supabase, Typescript, Zod, Zustand, MercadoPago SDK, TanStack Query**
 
-- 📫 How to reach me **julianetchepare95@gmail.com**
+- 📫 How to reach me / Donde contactarme **julianetchepare95@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me / Contacto:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/julianetchepare" target="blank">
         <img align="center"
@@ -14,7 +14,7 @@
     </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools / Lenguajes y herramientas:</h3>
 <p align="left">
     <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
         <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" />
