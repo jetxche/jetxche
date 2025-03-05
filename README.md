@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Julian Etchepare</h1>
-<h3 align="center">A passionate frontend developer from Argentina / Soy un desarrollador frontend de Argentina</h3>
+<h3 align="center">A passionate frontend developer from Argentina / Soy un desarrollador frontend de
+    Argentina</h3>
 
-- 🌱 I’m currently learning / Actualmente aprendiendo **ReactJS, Firebase, NextJS, Supabase, Typescript, Zod, Zustand, MercadoPago SDK, TanStack Query**
+- 🌱 I’m currently learning / Actualmente aprendiendo **ReactJS, Firebase, NextJS, Supabase,
+Typescript, Zod, Zustand, MercadoPago SDK, TanStack Query**
 
 - 📫 How to reach me / Donde contactarme **julianetchepare95@gmail.com**
 
@@ -16,6 +18,9 @@
 
 <h3 align="left">Languages and Tools / Lenguajes y herramientas:</h3>
 <p align="left">
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="https://pbs.twimg.com/profile_images/1609933607006519297/JfQLdV9q_400x400.jpg" alt="MercadoPago" width="40" height="40" />
+    </a>
     <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
         <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" />
     </a>
