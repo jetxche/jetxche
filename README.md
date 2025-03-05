@@ -2,8 +2,8 @@
 <h3 align="center">A passionate frontend developer from Argentina / Soy un desarrollador frontend de
     Argentina</h3>
 
-- 🌱 I’m currently learning / Actualmente aprendiendo **ReactJS, Firebase, NextJS, Supabase,
-Typescript, Zod, Zustand, TanStack Query**
+- 🌱 I’m currently learning / Actualmente aprendiendo **ReactJS, Firebase, NextJS,
+Typescript, TanStack Query**
 
 - 📫 How to reach me / Donde contactarme **julianetchepare95@gmail.com**
 
