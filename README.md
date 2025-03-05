@@ -21,6 +21,9 @@ Typescript, Zod, Zustand, TanStack Query**
     <a href="https://www.mercadopago.com.ar/developers/es/docs/sdks-library/landing" target="_blank" rel="noreferrer">
         <img src="https://pbs.twimg.com/profile_images/1609933607006519297/JfQLdV9q_400x400.jpg" alt="MercadoPago" width="40" height="40" />
     </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201" alt="Typescript" width="40" height="40" />
+    </a>
     <a href="https://supabase.com/" target="_blank" rel="noreferrer">
         <img style="object-fit: contain;" src="https://supabase.com/_next/image?url=https%3A%2F%2Ffrontend-assets.supabase.com%2Fwww%2Ff5c8f460c029%2F_next%2Fstatic%2Fmedia%2Fsupabase-logo-wordmark--dark.b36ebb5f.png&w=128&q=75&dpl=dpl_H2JUfsxZgWm2hTmeTU5xrXhM7umm" alt="Supabase" width="40" />
     </a>
